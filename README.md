@@ -47,8 +47,11 @@ and have also listed some that I'm looking forward to pick up eventually as I pr
 ---
 
 - I'm currently (and constantly) working on my personal website, which will be hosted soon...
-- I also write tech blogs occasionally (based on free time) on <a href="https://hashnode.com/@Memphis1983">hashnode</a>
+- I also write tech blogs occasionally (based on free time) on <a href="https://hashnode.com/@Memphis1983">hashnode</a> 
 - I'm also planning to setup a Youtube channel sometime in the near future so I can push myself creating as many interesting and practical projects as I can and to share with others and also to record my coding journey. 
+
+##### If you plan on blogging <a href="https://hashnode.com/@Memphis1983/joinme">you can start here</a>
+
 
 ### Send me a message! 📫 
 
