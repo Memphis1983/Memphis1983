@@ -80,3 +80,8 @@ and have also listed some that I'm looking forward to pick up eventually as I pr
 ### Wakatime Week Stats
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=kieran_memphis"/>
+
+
+### Fun Quotes 😉
+
+![Quote](https://github-readme-quotes.herokuapp.com/quote)
