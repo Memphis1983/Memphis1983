@@ -8,6 +8,12 @@ I'm currently part of a 30 weeks Virtual Bootcamp - #100DevsBootcamp 🔥
 
 ---
 
+### Hacktoberfest 2020 Achievement Badge 📛
+
+<img src="/hacktoberbadge.gif" alt="hacktoberbadge" />
+
+---
+
 ### What do I do?  🔭
 
 As mentioned above, I am in a bootcamp and constantly learning new things everyday but I've managed to learn enough to build beautiful websites and will continue do that 
