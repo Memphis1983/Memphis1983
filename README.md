@@ -28,11 +28,11 @@ and have also listed some that I'm looking forward to pick up eventually as I pr
 
 <img alt="Css" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
 
-<img alt="Tailwind CSS" src="https://img.shields.io/badge/TailwindCSS-38B28C?tailwindcss&logoColor=white&style=for-the-badge" />
-
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
 
 <img alt="NodeJS" src="https://img.shields.io/badge/NodeJS-339933?nodejs&logoColor=white&style=for-the-badge" />
+
+<img alt="Tailwind CSS" src="https://img.shields.io/badge/TailwindCSS-38B28C?tailwindcss&logoColor=white&style=for-the-badge" />
 
 </p>
 
