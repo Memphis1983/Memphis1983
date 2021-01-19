@@ -2,7 +2,7 @@
 
 ### Hi there welcome to my Github page 👋
 
-My name is Kieran and I'm a Web Developer from Bangalore, India. I've been self-teaching for a little over 6 months now and trying to change careers ✨
+My name is Kieran and I'm a Web Developer from Bangalore, India. I've been self-teaching for a little over 9 months now and trying to change careers ✨
 
 I'm currently part of a 30 weeks Virtual Bootcamp - #100DevsBootcamp 🔥  
 
