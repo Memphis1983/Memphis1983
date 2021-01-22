@@ -32,6 +32,10 @@ and have also listed some that I'm looking forward to pick up eventually as I pr
 
 <img alt="NodeJS" src="https://img.shields.io/badge/NodeJS-339933?nodejs&logoColor=white&style=for-the-badge" />
 
+<img alt="Tailwind CSS" src="https://img.shields.io/badge/TailwindCSS-38B28C?tailwindcss&logoColor=white&style=for-the-badge" />
+
+<img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white&style=for-the-badge" />
+
 </p>
 
 ---
@@ -39,10 +43,6 @@ and have also listed some that I'm looking forward to pick up eventually as I pr
  ### What am I learning next? 🌱
  
  <p>
-  
-<img alt="Tailwind CSS" src="https://img.shields.io/badge/TailwindCSS-38B28C?tailwindcss&logoColor=white&style=for-the-badge" />
-
-<img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white&style=for-the-badge" />
 
 <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
  
