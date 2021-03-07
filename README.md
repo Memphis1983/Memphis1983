@@ -2,9 +2,7 @@
 
 ### Hi there welcome to my Github page 👋
 
-My name is Kieran and I'm a Web Developer from Bangalore, India. I've been self-teaching for a little over 9 months now and trying to change careers ✨
-
-I'm currently part of a 30 weeks Virtual Bootcamp - #100DevsBootcamp 🔥  
+My name is Kieran and I'm a Software Engineer | Freelance Developer @ 100Devs. I'm based in Bangalore, India. ✨
 
 ---
 
@@ -16,11 +14,10 @@ I'm currently part of a 30 weeks Virtual Bootcamp - #100DevsBootcamp 🔥
 
 ### What do I do?  🔭
 
-As mentioned above, I am in a bootcamp and constantly learning new things everyday but I've managed to learn enough to build beautiful websites and will continue do that 
-and will try my best to push all of my work here on regular basis.
+I'm a software engineer at 100Devs. Here, I primarily design & build interactive websites with responsive features and web applications using current frameworks and packages, delivering timely solutions while maintaining customer satisfaction.
 
 Here are some of the skills listed in order according to level starting from **Pretty Good** to **Decent** 
-and have also listed some that I'm looking forward to pick up eventually as I progess through my bootcamp 😉
+and have also listed some that I'm looking forward to pick up eventually as I make progess 😉
 
 <p>
   
@@ -36,6 +33,10 @@ and have also listed some that I'm looking forward to pick up eventually as I pr
 
 <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white&style=for-the-badge" />
 
+<img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
+
+
+
 </p>
 
 ---
@@ -44,15 +45,13 @@ and have also listed some that I'm looking forward to pick up eventually as I pr
  
  <p>
 
-<img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
- 
 <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
  
 </p> 
 
 ---
 
-- I'm currently (and constantly) working on my personal website, which will be hosted soon...
+- Check out my portfolio - <a href="https://imeandmyself.netlify.app/"></a>
 - I also write tech blogs occasionally (based on free time) on <a href="https://hashnode.com/@Memphis1983">hashnode</a> 
 - I'm also planning to setup a Youtube channel sometime in the near future so I can push myself creating as many interesting and practical projects as I can and to share with others and also to record my coding journey. 
 
