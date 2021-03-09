@@ -51,7 +51,7 @@ and have also listed some that I'm looking forward to pick up eventually as I ma
 
 ---
 
-- Check out my <a href="https://imeandmyself.netlify.app/">Portfolio</a>
+- Check out my <a href="https://kiraniyerdev.netlify.app/">Portfolio</a>
 - I also write tech blogs occasionally (based on free time) on <a href="https://hashnode.com/@Memphis1983">hashnode</a> 
 - I'm also planning to setup a Youtube channel sometime in the near future so I can push myself creating as many interesting and practical projects as I can and to share with others and also to record my coding journey. 
 
