@@ -66,7 +66,7 @@ and have also listed some that I'm looking forward to pick up eventually as I ma
   <a href="https://twitter.com/_amyourdadday">  
     <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" />
     </a>
-  <a href"https://www.linkedin.com/in/kieran-iyer-a2bb6b1b5/">
+  <a href"https://www.linkedin.com/in/kiraniyer/">
     <img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
   <a href="mailto:kiran.iyer83@gmail.com?subject="HTML link">
