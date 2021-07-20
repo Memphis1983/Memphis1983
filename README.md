@@ -2,7 +2,7 @@
 
 ### Hi there welcome to my Github page 👋
 
-My name is Kieran and I'm a Software Engineer | Freelance Developer @ 100Devs. I'm based in Bangalore, India. ✨
+My name is Kiran and I'm a Software Engineer | Freelance Developer @ 100Devs. I'm based in Bangalore, India. ✨
 
 ---
 
