@@ -43,12 +43,16 @@ Here are my skills
  ### What am I learning next? 🌱
  
 
- 
  <p>
 
 <img alt="JAMStack" src="https://img.shields.io/badge/JAM-Stack-red" />
   
- 
+<img alt="NextJS" src="https://img.shields.io/badge/Next-JS-brightgreen" />
+  
+<img alt="GraphQL" src="https://img.shields.io/badge/Graph-QL-blueviolet" />
+
+<img alt="PHP" src="https://img.shields.io/badge/%20-PHP%20-yellow />
+
  
 </p> 
 
@@ -56,7 +60,6 @@ Here are my skills
 
 - Check out my <a href="https://kiraniyerdev.netlify.app/">Portfolio</a>
 - I also write tech blogs occasionally (based on free time) on <a href="https://hashnode.com/@Memphis1983">hashnode</a> 
-- I'm also planning to setup a Youtube channel sometime in the near future so I can push myself creating as many interesting and practical projects as I can and to share with others and also to record my coding journey. 
 
 ##### If you plan on blogging <a href="https://hashnode.com/@Memphis1983/joinme">you can start here</a>
 
