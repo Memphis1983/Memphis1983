@@ -53,7 +53,7 @@ Here are my skills
   
 <img alt="GraphQL" src="https://img.shields.io/badge/Graph-QL-blueviolet" />
 
-<img alt="PHP" src="https://img.shields.io/badge/%20-PHP%20-yellow />
+<img alt="PHP" src="https://img.shields.io/badge/%20-PHP%20-yellow" />
 
  
 </p> 
