@@ -47,6 +47,8 @@ Here are my skills
 
 <img alt="JAMStack" src="https://img.shields.io/badge/JAM-Stack-red" />
   
+<img alt="Gatsby" src="https://img.shields.io/badge/%20%20-Gatsby-purple" />
+  
 <img alt="NextJS" src="https://img.shields.io/badge/Next-JS-brightgreen" />
   
 <img alt="GraphQL" src="https://img.shields.io/badge/Graph-QL-blueviolet" />
