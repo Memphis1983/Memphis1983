@@ -2,7 +2,7 @@
 
 ### Hi there welcome to my Github page 👋
 
-My name is Kieran and I'm a Software Engineer | Freelance Developer @ 100Devs. I'm based in Bangalore, India. ✨
+My name is Kiran and I'm a Software Engineer | Freelance Developer @ 100Devs. I'm based in Bangalore, India. ✨
 
 ---
 
@@ -14,11 +14,9 @@ My name is Kieran and I'm a Software Engineer | Freelance Developer @ 100Devs. I
 
 ### What do I do?  🔭
 
-I'm a software engineer at 100Devs. Here, I primarily design & build interactive websites with responsive features and web applications using current frameworks and packages, delivering timely solutions while maintaining customer satisfaction.
+I'm a software engineer at 100Devs, orchestrating robust back ends to seamlessly work with accessible front ends. Passionate on learning new technologies and supporting next generation innovators.
 
-Here are some of the skills listed in order according to level starting from **Pretty Good** to **Decent** 
-and have also listed some that I'm looking forward to pick up eventually as I make progess 😉
-
+Here are my skills
 <p>
   
 <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
@@ -34,7 +32,8 @@ and have also listed some that I'm looking forward to pick up eventually as I ma
 <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white&style=for-the-badge" />
 
 <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
-
+  
+<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
 
 
 </p>
@@ -43,9 +42,13 @@ and have also listed some that I'm looking forward to pick up eventually as I ma
 
  ### What am I learning next? 🌱
  
+
+ 
  <p>
 
-<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
+<img alt="JAMStack" src="https://img.shields.io/badge/JAM-Stack-red" />
+  
+ 
  
 </p> 
 
