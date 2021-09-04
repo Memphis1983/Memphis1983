@@ -60,7 +60,7 @@ Here are my skills
 
 ---
 
-- Check out my <a href="https://kiraniyerdev.netlify.app/">Portfolio</a>
+- Check out my <a href="https://kiraniyerdev.me">Portfolio</a>
 - I also write tech blogs occasionally (based on free time) on <a href="https://hashnode.com/@Memphis1983">hashnode</a> 
 
 ##### If you plan on blogging <a href="https://hashnode.com/@Memphis1983/joinme">you can start here</a>
