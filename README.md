@@ -61,7 +61,7 @@ Here are my skills
 ---
 
 - Check out my <a href="https://kiraniyerdev.me">Portfolio</a>
-- I also write tech blogs occasionally (based on free time) on <a href="https://hashnode.com/@Memphis1983">hashnode</a> 
+- I also write tech blogs occasionally (based on free time) on <a href="https://blog.kiraniyerdev.me">hashnode</a> 
 
 ##### If you plan on blogging <a href="https://hashnode.com/@Memphis1983/joinme">you can start here</a>
 
@@ -71,7 +71,7 @@ Here are my skills
 - I love meeting and interacting with other developers in the community, so feel free to send me a message! You can reach me here... 
 
 <p>
-  <a href="https://twitter.com/_amyourdadday">  
+  <a href="https://twitter.com/sir_divs_alot">  
     <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" />
     </a>
   <a href"https://www.linkedin.com/in/kiraniyer/">
